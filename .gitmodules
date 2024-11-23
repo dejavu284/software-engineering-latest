@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = git@github.com:dejavu284/submodule-test.git
+[submodule "lib_submodulee"]
+	path = lib_submodulee
+	url = https://github.com/dejavu284/submodule-test
